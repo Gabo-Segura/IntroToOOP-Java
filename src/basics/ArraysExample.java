@@ -46,7 +46,7 @@ public class ArraysExample {
         }
         System.out.println(Arrays.toString(arr3));
 
-        String[] countries = {"Canada", "USA", "Mexico", "Japan", "Taiwan", "Hongkong", "Turkey", "Colombia", "Philippines"};
+        String[] countries = {"labs.lab2.Canada", "USA", "Mexico", "Japan", "Taiwan", "Hongkong", "Turkey", "Colombia", "Philippines"};
         for (String country : countries) {
             System.out.println(country);
         }
