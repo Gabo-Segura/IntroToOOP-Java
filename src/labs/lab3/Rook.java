@@ -14,6 +14,6 @@ public class Rook extends Piece {
 
     @Override
     public String toString() {
-        return super.toString();
+        return "Rock{value='" + getValue() + "\'" + "}";
     }
 }

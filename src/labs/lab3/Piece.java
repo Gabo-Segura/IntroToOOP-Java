@@ -33,7 +33,7 @@ public abstract class Piece {
 
     @Override
     public String toString() {
-        return "Piece{value='" + value + '\'' + '}';
+        return "Piece{value='" + value + "\'" + "}";
     }
 
     @Override
